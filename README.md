@@ -1,8 +1,8 @@
-```python
+```java
 print("Hey People");
-print("welcome to the profile of");
 
-name = Shashi ranjan
+
+name = Shashi 
 about_me = {
     'pronouns': "he / him",
     'status': 'Undergrad Student',
