@@ -14,7 +14,7 @@ about_me = {
     'my_tools': ['Visual Studio Code', 'intelej ', 'leetcode', 'Notion'],
     'current_operating_system': 'windows 11',
     'contact' : 'ranjanshashi854105@gmail.com',
-    'currently_learning' : 'Full Stack Web Developement  and competative coading'
+    'currently_learning' : 'Full Stack Web Developement'
 };
 
 daily_goals = 'All set to go'
