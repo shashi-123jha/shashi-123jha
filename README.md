@@ -1,3 +1,4 @@
+```python
 print("Hey People");
 print("welcome to the profile of");
 
@@ -23,3 +24,4 @@ if not daily_gaols_acheieved:
     tryagain()
 else:
     netflix()
+```
